@@ -2,8 +2,8 @@
 Python Encryptor
 
 <b>INSTALL</b>
-python2
-Pyfiglet
+</br>Python2
+</br>Pyfiglet
 
 # Use
 $python2 pycrypt.py

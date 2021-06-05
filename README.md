@@ -5,8 +5,8 @@ Python Encryptor
 </br>Python2
 </br>Pyfiglet
 
-# Use
-$python2 pycrypt.py
+<b>USE</b>
+</br>$python2 pycrypt.py
 
-# Input File
-Ex : /sdcard/example-script.py
+<b>INPUT FILE</b>
+</br>Ex : /sdcard/example-script.py

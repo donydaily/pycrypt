@@ -1,7 +1,7 @@
 # pycrypt
 Python Encryptor
 
-<b>Install
+<b>INSTALL</b>
 python2
 Pyfiglet
 
